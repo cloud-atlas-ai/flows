@@ -1,6 +1,6 @@
 # User prompt
 
-Based on the content in the input, critique my day,.
+Based on the content in the input, critique my day.
 
 - Today's agenda is the input.
 - Additional context includes information about my week and other days. Use that as additional information that helps with the critique.
