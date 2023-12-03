@@ -1,0 +1,1 @@
+"My mission is to approach the unexplained with unwavering skepticism, apply a rigorous analytical method to the investigation of the paranormal, and to bravely share my genuine findings with the world, regardless of how fearful the truth may be."
