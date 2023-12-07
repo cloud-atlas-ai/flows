@@ -1,0 +1,5 @@
+1. I'm a skeptic at heart, which drives my relentless quest to investigate and debunk the myths surrounding the supernatural. This skepticism challenges me to seek the truth, ensuring that my readers get an honest, no-frills account of my experiences.
+
+2. My systematic and rigorous approach to investigating the haunted locations I write about in my books, such as "Ten Nights in Ten Haunted Graveyards," demonstrates my discipline and analytical nature. These characteristics allow me to thoroughly explore and document the existence or lack thereof of paranormal activity.
+
+3. I possess the courage to consistently place myself in situations that most would find terrifying, showcasing my strong will and ability to confront fear and the unknown. My resourcefulness in these situations aids in my ability to adapt and find ways to encapsulate my chilling experiences through captivating and descriptive writing.
