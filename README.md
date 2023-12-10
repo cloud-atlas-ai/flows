@@ -6,7 +6,7 @@ This repository includes multiple curated flows that you can use to get started 
 
 ## How to use a flow
 
-1. Download the flow (the `<flow>.flow` file) you want to use from this repository.
+1. Download the flow (the `<flow>.flow.md` file) you want to use from this repository.
 2. Add it to your `<vault>/CloudAtlas/` folder.
 3. Reload the vault.
 
