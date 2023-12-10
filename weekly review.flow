@@ -12,6 +12,8 @@ usage_instructions: >-
   - In the weekly note, you should list your priorities and strengths.
   - In the weekly note, you should have wikilinks to each day in that week.
   - At the end of the week, after adding your daily notes, run this flow to help you recognize your progress, and plan for the next week.
+resolveBacklinks: false
+resolveForwardLinks: true
 ---
 
 
