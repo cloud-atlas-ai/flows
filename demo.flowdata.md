@@ -39,3 +39,4 @@ I am [[Mike Enslin]]
 - [ ] Dinner with hotel manager, Mr. Hughes, to gather stories about the Crescent Moon Inn directly from staff (7:30 PM).
 - [ ] Prepare for the night's vigil by placing cameras and voice recorders in spots based on today's findings (8:45 PM).
 - [ ] At the stroke of midnight, record ambient noise levels and any temperature changes as part of the secondary observation technique (12:00 AM).
+
